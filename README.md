@@ -1,3 +1,8 @@
+# Description
+forked from https://gitlab.com/marcandre.lureau/qemu-display.git
+
+Use a modified rdw4 to pass compilation
+
 # QEMU D-Bus display experiment
 
 ## Introduction
